@@ -40,7 +40,7 @@
       </div>
         <div class="md-layout-item md-medium-size-33 md-small-size-50 md-xsmall-size-100">
 
-          <a href="#" class="fa fa-envelope" @click="open('https://github.com/maierflo96')"></a>
+          <a href="#" class="fa fa-envelope" @click="open('mailto:florian@florianmaier.io')"></a>
 
         </div>
 
